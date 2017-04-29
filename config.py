@@ -1,0 +1,4 @@
+streamableAccount = dict(
+    user = "",
+    password = ""
+)
